@@ -1,0 +1,9 @@
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\bin\Release\Image Editor.exe
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\bin\Release\Image Editor.pdb
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image_Editor.ImageForm.resources
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image_Editor.Main.resources
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image_Editor.Properties.Resources.resources
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image Editor.csproj.GenerateResource.Cache
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image Editor.exe
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image Editor.pdb
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Release\Image Editor.csprojResolveAssemblyReference.cache

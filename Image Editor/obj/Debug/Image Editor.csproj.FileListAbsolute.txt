@@ -1,0 +1,20 @@
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.exe
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.pdb
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image Editor.csprojResolveAssemblyReference.cache
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image_Editor.Properties.Resources.resources
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image Editor.csproj.GenerateResource.Cache
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image Editor.exe
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image Editor.pdb
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image_Editor.Main.resources
+c:\users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image_Editor.ImageForm.resources
+C:\Users\emret\documents\visual studio 2015\Projects\Image Editor\Image Editor\obj\Debug\Image_Editor.Resize.resources
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\bin\Debug\Image Editor.exe
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\bin\Debug\Image Editor.pdb
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image Editor.csprojResolveAssemblyReference.cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image_Editor.ImageForm.resources
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image_Editor.Main.resources
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image_Editor.Properties.Resources.resources
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image_Editor.Resize.resources
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image Editor.csproj.GenerateResource.Cache
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image Editor.exe
+C:\Users\doga\Documents\Visual Studio 2017\Projects\yazlab1alt-master\Image Editor\obj\Debug\Image Editor.pdb

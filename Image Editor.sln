@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Editor", "Image Editor\Image Editor.csproj", "{A654AEB5-E24A-4C7C-8ACA-A39FA3A61EEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Image Editor v1.0", "Image Editor v1.0\Image Editor v1.0.vdproj", "{DD223592-21CD-48BB-A348-577C1FF749DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A654AEB5-E24A-4C7C-8ACA-A39FA3A61EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A654AEB5-E24A-4C7C-8ACA-A39FA3A61EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A654AEB5-E24A-4C7C-8ACA-A39FA3A61EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A654AEB5-E24A-4C7C-8ACA-A39FA3A61EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD223592-21CD-48BB-A348-577C1FF749DE}.Debug|Any CPU.ActiveCfg = Debug
+		{DD223592-21CD-48BB-A348-577C1FF749DE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
